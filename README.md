@@ -4,9 +4,15 @@ Basically It is A FlipKart Web Scrapping Project.
 
 ## Technology Used:- 
 -- Python
+
 -- flask
+
 -- flask_cors
+
 -- requests
+
 -- bs4
+
 -- pymongo
+
 -- MongoDB
